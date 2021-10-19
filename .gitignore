@@ -1,5 +1,5 @@
+# mac용 임시 파일
+*.DS_Store
 
-HomeWork/.DS_Store
-.DS_Store
-HomeWork/.DS_Store
-OpenCV21/.DS_Store
+# Jupyter Lab 임시 저장 파일
+.ipynb_checkpoints
