@@ -3,3 +3,10 @@
 
 # Jupyter Lab 임시 저장 파일
 .ipynb_checkpoints
+
+# 이미지 및 동영상 파일
+*.jpg
+*.png
+*.avi
+*.mp4
+*.py
