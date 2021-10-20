@@ -1,5 +1,5 @@
 # mac용 임시 파일
-*.DS_Store
+.DS_Store
 
 # Jupyter Lab 임시 저장 파일
 .ipynb_checkpoints
@@ -12,3 +12,6 @@
 
 # 쓸데없는 파이썬 파일
 *.py
+
+# 샘플데이터
+SampleFiles/
